@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;1,100&display=swap');
+        
+        *{
+            font-family: 'Montserrat', sans-serif;
+        }
+        button{
+            color: rgb(255, 255, 255);
+            text-align: center;
+            background-color: rgb(85, 145, 106);
+            align-items: center;
+            margin: 120px;
+        }
+        .col-md-12{
+            padding: 175px 200px;
+            background: #FFFFFF url(https://images.unsplash.com/photo-1679843218132-797b1f2525ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80) no-repeat right top fixed;
+            background-position: center top;
+            background-size: cover;
+            background-attachment: fixed;
+            }
+        h1{
+            color: rgb(202, 219, 214);
+        }
+        button:hover{
+            background-color: rgb(33, 90, 52);
+            color: black;
+        }
+        
