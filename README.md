@@ -11,7 +11,7 @@ Sou a Maria Eduarda, ou Duda como preferir, estudante do segundo ano de Ensino M
 ## Autorias - Justificativas
 Githubpesquisa - Além do técnico, a tarde, eu participo de um curso de Programação BackEnd e ambos os trabalhos desse primeiro trimestre foram produzidos por mim, neste momento. Escolhi este pois esta parte de Json foi um tanto quanto complicado para entender de inicio, este primeira autoria foi para pesquisar o que era e como fazer ainda com auxilio. Ele funciona com muita facilidade, você digita o seu user do aqui do GitHub e ele mostra sua foto de perfil, nome, etc.
 <br><br>
-Carrosjson - O sistema desta autoria é como o anterior porém agora ele buscaria informações de uma Array já pré definida, o interessante deste aqui foi que foi preciso dar mais "a cara a tapa" para entender como produzi-lo e acabou dando, felizmente, bem certo! Ele funciona, como já disse anteriormente, buscando numa Arrey pré definida placas ficticias respondendo o tipo do carro e informações sobre o mesmo!
+Carrosjson - O sistema desta autoria é como o anterior porém agora ele buscaria informações de uma Array já pré definida, o interessante deste aqui foi que foi preciso dar mais "a cara a tapa" para entender como produzi-lo e acabou dando, felizmente, bem certo! Ele funciona, como já disse anteriormente, buscando numa Array pré definida placas ficticias respondendo o tipo do carro e informações sobre o mesmo!
 <br><br>
 # 2º Trimestre
 ##Trabalhos - Justificativas
