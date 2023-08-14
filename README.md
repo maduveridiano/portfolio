@@ -14,3 +14,5 @@ Githubpesquisa - Além do técnico, a tarde, eu participo de um curso de Program
 Carrosjson - O sistema desta autoria é como o anterior porém agora ele buscaria informações de uma Array já pré definida, o interessante deste aqui foi que foi preciso dar mais "a cara a tapa" para entender como produzi-lo e acabou dando, felizmente, bem certo! Ele funciona, como já disse anteriormente, buscando numa Arrey pré definida placas ficticias respondendo o tipo do carro e informações sobre o mesmo!
 <br><br>
 # 2º Trimestre
+##Trabalhos - Justificativas
+[Desing - Thoth] (https://www.figma.com/proto/bVdNFxC2rnzax6EgfXuPu6/Untitled?page-id=0%3A1&node-id=3-3&starting-point-node-id=3%3A3&mode=design&t=CyPrMTVcPzyX9uub-1) Com este fim de trimestre também chegou ao fim uma das melhores matérias... Desing
