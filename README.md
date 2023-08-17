@@ -22,4 +22,6 @@ Carrosjson - O sistema desta autoria é como o anterior porém agora ele buscari
 <br>
 ##Autorias - Justificativas
 <br><br>
-Memória RAM e ROM - Saber a diferenciar as memórias é fundamental para entender como um computador ou dispositivo eletrônico funciona e armazena informações
+Memória RAM e ROM - Saber a diferenciar as memórias é fundamental para entender como um computador ou dispositivo eletrônico funcionam e armazenam informações. Esta autoria foi produzida na espectativa de facilitar esta diferenciação, dando alguns detalhes sobre ambos e suas diferenças.
+<br>
+React: Jogo da velha
