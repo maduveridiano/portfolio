@@ -22,5 +22,5 @@ Carrosjson - O sistema desta autoria é como o anterior porém agora ele buscari
 <br>
 ## Autorias - Justificativas
 Memória RAM e ROM - Saber a diferenciar as memórias é fundamental para entender como um computador ou dispositivo eletrônico funcionam e armazenam informações. Esta autoria foi produzida na espectativa de facilitar esta diferenciação, dando alguns detalhes sobre ambos e suas diferenças.
-<br>
+<br><br>
 React: Jogo da velha - Desde que comecei a estudar programação, uma das áreas que mais interessei-me foi o Front-end! React é um framework muito ultilizado e importante nesta área, por isso este pequeno projeto foi muito importante e introdutório a essa área.
