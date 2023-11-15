@@ -27,4 +27,6 @@ React: Jogo da velha - Desde que comecei a estudar programação, uma das áreas
 <br><br>
 # 3º Trimestre
 ## Trabalhos - Justificativas
-[Uber Global Hackathon](https://drive.google.com/file/d/1DtFwOBSWqn54-BPFNSn2DeRy0GCzbykN/view) 
+[Uber Global Hackathon](https://drive.google.com/file/d/1DtFwOBSWqn54-BPFNSn2DeRy0GCzbykN/view) Nesse último semestre participei de uma competição global promovida pela crimson e a Uber, onde fomos desafiados a tentar resolver os problemas de acessibilidade na Uber da américa do norte! Foi muito legal ter essa experiência e chegar até a final!
+<br>
+[Power Point](https://docs.google.com/presentation/d/1Pq_LeDB0mGGn5Z9GFdCvA__ezECrTROnU9qbcNxFihI/edit?usp=sharing) Aprender sobre ferramentas 
