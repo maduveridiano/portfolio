@@ -27,3 +27,4 @@ React: Jogo da velha - Desde que comecei a estudar programação, uma das áreas
 <br><br>
 # 3º Trimestre
 ## Trabalhos - Justificativas
+[Uber Global Hackathon](https://drive.google.com/file/d/1DtFwOBSWqn54-BPFNSn2DeRy0GCzbykN/view) 
