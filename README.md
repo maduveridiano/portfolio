@@ -19,9 +19,8 @@ Carrosjson - O sistema desta autoria é como o anterior porém agora ele buscari
 [Desing - Thoth](https://www.figma.com/proto/bVdNFxC2rnzax6EgfXuPu6/Untitled?page-id=0%3A1&node-id=3-3&starting-point-node-id=3%3A3&mode=design&t=CyPrMTVcPzyX9uub-1) Com este fim de trimestre também chegou ao fim uma das melhores matérias... Desing! Neste trabalho por ser o pensamento de um App se tornou um tanto quanto complicado, mas no fim deu tudo certo. Aprendi muito com esta matéria, alguns assuntos que nunca pensei me interessar,e também a pensar mais ativamente em como resolver problemas com maior maestria! Se tornou uma das minhas paixões e com certeza agora vou julgar os Desings alheio e lembrar desta matéria.
 <br> <br>
 [Governança de TI](https://docs.google.com/document/d/1N2QaRCcGsdcYMDyQVe1reDKIaxW8R_KFb-FhitsiOOU/edit?usp=sharing) A governança de TI é fundamental para garantir que a tecnologia da informação seja utilizada de maneira estratégica e responsável, minimizando riscos e maximizando os benefícios para a organização. Assim, esta matéria é muito importante nosso desenvolvimento pessoal e profissional, nos abrindo para áreas mais diversas dentro da nossa área.
-<br> <br>
-##Autorias - Justificativas
 <br>
+## Autorias - Justificativas
 Memória RAM e ROM - Saber a diferenciar as memórias é fundamental para entender como um computador ou dispositivo eletrônico funcionam e armazenam informações. Esta autoria foi produzida na espectativa de facilitar esta diferenciação, dando alguns detalhes sobre ambos e suas diferenças.
 <br>
 React: Jogo da velha - Desde que comecei a estudar programação, uma das áreas que mais interessei-me foi o Front-end! React é um framework muito ultilizado e importante nesta área, por isso este pequeno projeto foi muito importante e introdutório a essa área.
